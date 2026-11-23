@@ -5,6 +5,11 @@
 [![pnpm](https://img.shields.io/badge/pnpm-10-orange)](https://pnpm.io)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 
+> [!NOTE]
+> This is a working copy of [oNo500/nestjs-boilerplate](https://github.com/oNo500/nestjs-boilerplate) (MIT, see
+> [LICENSE](LICENSE)), kept as the starting point for a marketplace project. Everything below describes the upstream
+> boilerplate.
+
 **A production-ready full-stack NestJS + Next.js boilerplate.**
 
 A complete monorepo with the cross-cutting concerns a real SaaS needs, plus a typed contract from PostgreSQL all the way to React. Start with plain CRUD; graduate a context to full DDD only when it earns it.
